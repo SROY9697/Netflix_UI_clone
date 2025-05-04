@@ -1,9 +1,9 @@
-#Netflix Clone Project
-#Overview
+<h2>Netflix Clone Project</h2>
+<h2>Overview</h2>
 This project is a Netflix UI clone built using the MERN stack. It aims to replicate the look and feel of the Netflix user interface, providing a platform to browse and play video content.
 
-#Technologies Used
-#Frontend:
+<h2>Technologies Used</h2>
+<h2>Frontend:</h2>
 
 React: JavaScript library for building user interfaces
 
@@ -15,7 +15,7 @@ React Player: Component for playing videos
 
 React Hot Toast: For showing toast notifications
 
-#Backend:
+<h2>Backend:</h2>
 
 Node.js: JavaScript runtime environment
 
@@ -23,11 +23,11 @@ Express.js: Web application framework for Node.js
 
 Mongoose: MongoDB object modeling tool
 
-#Database:
+<h2>Database:</h2>
 
 MongoDB: NoSQL database
 
-#Features
+<h2>Features : </h2>
 Homepage: Displays a variety of movie and TV show categories, similar to the Netflix homepage.
 
 Video Playback: Allows users to play movie trailers and videos using React Player.
